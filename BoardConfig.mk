@@ -44,7 +44,7 @@ TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 TARGET_ENABLE_ENCRYPTION := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := tulip_defconfig
+TARGET_KERNEL_CONFIG := AtomX-tulip_defconfig
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm660
 
 # Manifest
